@@ -68,9 +68,10 @@ AudioStore intercepts raw YouTube video titles and channels, cross-referencing t
 
 
 <p align="center">
-  <img width="25%" alt="WhatsApp Image 2026-06-22 at 2 18 41 AM" src="https://github.com/user-attachments/assets/4097e26f-d3c6-437e-a4b5-581dd1db9079" /> &nbsp;
-  <img width="25%" alt="WhatsApp Image 2026-06-22 at 2 18 47 AM" src="https://github.com/user-attachments/assets/cdac664a-2b58-46f1-bdaf-0143b5d4b7ba" /> &nbsp;
-  <img width="25%" alt="WhatsApp Image 2026-06-22 at 2 18 57 AM" src="https://github.com/user-attachments/assets/7ed19985-d0dc-4a68-8f2e-8d4458f52d48" />
+  <img width="22%" alt="WhatsApp Image 2026-06-22 at 2 18 41 AM" src="https://github.com/user-attachments/assets/4097e26f-d3c6-437e-a4b5-581dd1db9079" /> &nbsp;
+ <img width="22%" height="1600" alt="WhatsApp Image 2026-06-22 at 3 06 12 AM" src="https://github.com/user-attachments/assets/71c687c2-c45f-4fe8-805b-902bbe26f3cc" /> &nbsp;
+  <img width="22%" alt="WhatsApp Image 2026-06-22 at 2 18 47 AM" src="https://github.com/user-attachments/assets/cdac664a-2b58-46f1-bdaf-0143b5d4b7ba" /> &nbsp;
+  <img width="22%" alt="WhatsApp Image 2026-06-22 at 2 18 57 AM" src="https://github.com/user-attachments/assets/7ed19985-d0dc-4a68-8f2e-8d4458f52d48" />
 
 
 
