@@ -29,7 +29,7 @@ Built for audiophiles and engineered for performance, it features 1:1 physics-ba
 <br>
 
 <p align="center">
-  <a href="https://github.com/Shreyas445/Glass-Browser/releases/download/v1.0.0/GlassBrowser_Setup.exe">
+  <a href="[https://github.com/Shreyas445/Glass-Browser/releases/download/v1.0.0/GlassBrowser_Setup.exe](https://github.com/Shreyas445/Audio-Store-App/releases/download/v1.0.0/AudioStore.apk)">
     <strong>⬇️ Download AudioStore App</strong>
   </a>
 </p>
