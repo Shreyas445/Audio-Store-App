@@ -36,6 +36,7 @@ Built for audiophiles and engineered for performance, it features 1:1 physics-ba
 
 <br>
 
+more info ---> https://audio-store-app.netlify.app/
 ## ✨ Key Features
 
 ### 🎨 Flagship UI & UX
