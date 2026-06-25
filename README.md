@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shreyas445/AudioStore/releases"><img src="https://img.shields.io/github/v/release/Shreyas445/Audio-Store-App?color=13CA5C&style=for-the-badge" alt="Release"></a>
+  <a href="https://github.com/Shreyas445/Audio-Store-App/releases"><img src="https://img.shields.io/github/v/release/Shreyas445/Audio-Store-App?color=13CA5C&style=for-the-badge" alt="Release"></a>
   <img src="https://img.shields.io/badge/Kotlin-1.9+-blue.svg?logo=kotlin&style=for-the-badge" alt="Kotlin">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=android&style=for-the-badge" alt="Compose">
   <img src="https://img.shields.io/badge/Media3-ExoPlayer-FF0000?logo=youtube&style=for-the-badge" alt="Media3">
